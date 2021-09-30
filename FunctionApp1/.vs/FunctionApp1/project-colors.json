@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "42a3a6b1-d2b7-408e-b5e3-a49b90067b68": {
+      "ProjectGuid": "42a3a6b1-d2b7-408e-b5e3-a49b90067b68",
+      "DisplayName": "FunctionApp1",
+      "ColorIndex": 0
+    },
+    "c2ba398b-d9c9-41e6-90a6-36721d29caf5": {
+      "ProjectGuid": "c2ba398b-d9c9-41e6-90a6-36721d29caf5",
+      "DisplayName": "Functions.Intefrations.Test",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
